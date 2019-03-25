@@ -75,3 +75,9 @@ input:focus {
 	color: gray;
 	text-decoration: line-through;
 }
+
+footer{
+	text-align: center;
+	color: #fff;
+	margin-top:200px;
+}
